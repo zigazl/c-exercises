@@ -1,0 +1,14 @@
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\textVector\bin\Debug\netcoreapp3.1\textVector.exe
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\textVector\bin\Debug\netcoreapp3.1\textVector.deps.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\textVector\bin\Debug\netcoreapp3.1\textVector.runtimeconfig.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\textVector\bin\Debug\netcoreapp3.1\textVector.runtimeconfig.dev.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\textVector\bin\Debug\netcoreapp3.1\textVector.dll
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\textVector\bin\Debug\netcoreapp3.1\textVector.pdb
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\textVector\obj\Debug\netcoreapp3.1\textVector.csproj.AssemblyReference.cache
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\textVector\obj\Debug\netcoreapp3.1\textVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\textVector\obj\Debug\netcoreapp3.1\textVector.AssemblyInfoInputs.cache
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\textVector\obj\Debug\netcoreapp3.1\textVector.AssemblyInfo.cs
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\textVector\obj\Debug\netcoreapp3.1\textVector.csproj.CoreCompileInputs.cache
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\textVector\obj\Debug\netcoreapp3.1\textVector.dll
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\textVector\obj\Debug\netcoreapp3.1\textVector.pdb
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\textVector\obj\Debug\netcoreapp3.1\textVector.genruntimeconfig.cache

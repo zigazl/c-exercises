@@ -1,0 +1,14 @@
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\scalarVector\bin\Debug\netcoreapp3.1\scalarVector.exe
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\scalarVector\bin\Debug\netcoreapp3.1\scalarVector.deps.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\scalarVector\bin\Debug\netcoreapp3.1\scalarVector.runtimeconfig.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\scalarVector\bin\Debug\netcoreapp3.1\scalarVector.runtimeconfig.dev.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\scalarVector\bin\Debug\netcoreapp3.1\scalarVector.dll
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\scalarVector\bin\Debug\netcoreapp3.1\scalarVector.pdb
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\scalarVector\obj\Debug\netcoreapp3.1\scalarVector.csproj.AssemblyReference.cache
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\scalarVector\obj\Debug\netcoreapp3.1\scalarVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\scalarVector\obj\Debug\netcoreapp3.1\scalarVector.AssemblyInfoInputs.cache
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\scalarVector\obj\Debug\netcoreapp3.1\scalarVector.AssemblyInfo.cs
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\scalarVector\obj\Debug\netcoreapp3.1\scalarVector.csproj.CoreCompileInputs.cache
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\scalarVector\obj\Debug\netcoreapp3.1\scalarVector.dll
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\scalarVector\obj\Debug\netcoreapp3.1\scalarVector.pdb
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\scalarVector\obj\Debug\netcoreapp3.1\scalarVector.genruntimeconfig.cache

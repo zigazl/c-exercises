@@ -1,0 +1,14 @@
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\standardInput\bin\Debug\netcoreapp3.1\standardInput.exe
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\standardInput\bin\Debug\netcoreapp3.1\standardInput.deps.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\standardInput\bin\Debug\netcoreapp3.1\standardInput.runtimeconfig.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\standardInput\bin\Debug\netcoreapp3.1\standardInput.runtimeconfig.dev.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\standardInput\bin\Debug\netcoreapp3.1\standardInput.dll
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\standardInput\bin\Debug\netcoreapp3.1\standardInput.pdb
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\standardInput\obj\Debug\netcoreapp3.1\standardInput.csproj.AssemblyReference.cache
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\standardInput\obj\Debug\netcoreapp3.1\standardInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\standardInput\obj\Debug\netcoreapp3.1\standardInput.AssemblyInfoInputs.cache
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\standardInput\obj\Debug\netcoreapp3.1\standardInput.AssemblyInfo.cs
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\standardInput\obj\Debug\netcoreapp3.1\standardInput.csproj.CoreCompileInputs.cache
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\standardInput\obj\Debug\netcoreapp3.1\standardInput.dll
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\standardInput\obj\Debug\netcoreapp3.1\standardInput.pdb
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\standardInput\obj\Debug\netcoreapp3.1\standardInput.genruntimeconfig.cache
