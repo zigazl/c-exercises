@@ -1,0 +1,13 @@
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\twoStrings\bin\Debug\netcoreapp3.1\twoStrings.exe
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\twoStrings\bin\Debug\netcoreapp3.1\twoStrings.deps.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\twoStrings\bin\Debug\netcoreapp3.1\twoStrings.runtimeconfig.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\twoStrings\bin\Debug\netcoreapp3.1\twoStrings.runtimeconfig.dev.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\twoStrings\bin\Debug\netcoreapp3.1\twoStrings.dll
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\twoStrings\bin\Debug\netcoreapp3.1\twoStrings.pdb
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\twoStrings\obj\Debug\netcoreapp3.1\twoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\twoStrings\obj\Debug\netcoreapp3.1\twoStrings.AssemblyInfoInputs.cache
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\twoStrings\obj\Debug\netcoreapp3.1\twoStrings.AssemblyInfo.cs
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\twoStrings\obj\Debug\netcoreapp3.1\twoStrings.csproj.CoreCompileInputs.cache
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\twoStrings\obj\Debug\netcoreapp3.1\twoStrings.dll
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\twoStrings\obj\Debug\netcoreapp3.1\twoStrings.pdb
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise02\twoStrings\obj\Debug\netcoreapp3.1\twoStrings.genruntimeconfig.cache
