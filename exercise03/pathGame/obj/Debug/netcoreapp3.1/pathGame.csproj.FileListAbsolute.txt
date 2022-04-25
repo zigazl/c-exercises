@@ -1,0 +1,14 @@
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise03\pathGame\bin\Debug\netcoreapp3.1\pathGame.exe
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise03\pathGame\bin\Debug\netcoreapp3.1\pathGame.deps.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise03\pathGame\bin\Debug\netcoreapp3.1\pathGame.runtimeconfig.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise03\pathGame\bin\Debug\netcoreapp3.1\pathGame.runtimeconfig.dev.json
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise03\pathGame\bin\Debug\netcoreapp3.1\pathGame.dll
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise03\pathGame\bin\Debug\netcoreapp3.1\pathGame.pdb
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise03\pathGame\obj\Debug\netcoreapp3.1\pathGame.csproj.AssemblyReference.cache
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise03\pathGame\obj\Debug\netcoreapp3.1\pathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise03\pathGame\obj\Debug\netcoreapp3.1\pathGame.AssemblyInfoInputs.cache
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise03\pathGame\obj\Debug\netcoreapp3.1\pathGame.AssemblyInfo.cs
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise03\pathGame\obj\Debug\netcoreapp3.1\pathGame.csproj.CoreCompileInputs.cache
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise03\pathGame\obj\Debug\netcoreapp3.1\pathGame.dll
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise03\pathGame\obj\Debug\netcoreapp3.1\pathGame.pdb
+C:\Users\zloga\Documents\GitHub\cs-projects\exercise03\pathGame\obj\Debug\netcoreapp3.1\pathGame.genruntimeconfig.cache
