@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zloga\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zloga\\.nuget\\packages"
+    ]
+  }
+}

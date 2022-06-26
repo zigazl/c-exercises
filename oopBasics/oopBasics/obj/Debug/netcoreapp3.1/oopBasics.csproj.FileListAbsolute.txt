@@ -1,0 +1,14 @@
+C:\Users\zloga\Documents\Github\csharp-exercises\oopBasics\oopBasics\bin\Debug\netcoreapp3.1\oopBasics.exe
+C:\Users\zloga\Documents\Github\csharp-exercises\oopBasics\oopBasics\bin\Debug\netcoreapp3.1\oopBasics.deps.json
+C:\Users\zloga\Documents\Github\csharp-exercises\oopBasics\oopBasics\bin\Debug\netcoreapp3.1\oopBasics.runtimeconfig.json
+C:\Users\zloga\Documents\Github\csharp-exercises\oopBasics\oopBasics\bin\Debug\netcoreapp3.1\oopBasics.runtimeconfig.dev.json
+C:\Users\zloga\Documents\Github\csharp-exercises\oopBasics\oopBasics\bin\Debug\netcoreapp3.1\oopBasics.dll
+C:\Users\zloga\Documents\Github\csharp-exercises\oopBasics\oopBasics\bin\Debug\netcoreapp3.1\oopBasics.pdb
+C:\Users\zloga\Documents\Github\csharp-exercises\oopBasics\oopBasics\obj\Debug\netcoreapp3.1\oopBasics.csproj.AssemblyReference.cache
+C:\Users\zloga\Documents\Github\csharp-exercises\oopBasics\oopBasics\obj\Debug\netcoreapp3.1\oopBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zloga\Documents\Github\csharp-exercises\oopBasics\oopBasics\obj\Debug\netcoreapp3.1\oopBasics.AssemblyInfoInputs.cache
+C:\Users\zloga\Documents\Github\csharp-exercises\oopBasics\oopBasics\obj\Debug\netcoreapp3.1\oopBasics.AssemblyInfo.cs
+C:\Users\zloga\Documents\Github\csharp-exercises\oopBasics\oopBasics\obj\Debug\netcoreapp3.1\oopBasics.csproj.CoreCompileInputs.cache
+C:\Users\zloga\Documents\Github\csharp-exercises\oopBasics\oopBasics\obj\Debug\netcoreapp3.1\oopBasics.dll
+C:\Users\zloga\Documents\Github\csharp-exercises\oopBasics\oopBasics\obj\Debug\netcoreapp3.1\oopBasics.pdb
+C:\Users\zloga\Documents\Github\csharp-exercises\oopBasics\oopBasics\obj\Debug\netcoreapp3.1\oopBasics.genruntimeconfig.cache
